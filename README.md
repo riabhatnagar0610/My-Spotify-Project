@@ -6,6 +6,8 @@ Welcome to the Track My Music project!
 
 Everyday we listen to hundreds and thousands of songs but have you ever thought about tracking your listening habits? If yes, then I believe this project will be a very helpful start for you. This project aims to help you track your listening habits of Spotify using your own streaming history and liked songs. It also utilizes the Spotify API to pull data about different genres associated with different artists. The processed data is then used to create an interactive Tableau dashboard, providing insights into your music preferences and habits.
 
+ :sparkles: Well, I didn't need to do a whole project to know my top artist is Taylor Swift but I can safely it was too much fun working with your own data and generating insights
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
